@@ -1,0 +1,6 @@
+{
+  "name": "Trợ lý Quản trị Học tập – THPT Yên Viên",
+  "description": "Ứng dụng trợ lý quản trị học tập dành cho giáo viên Khúc Thị Thu Thủy, Trường THPT Yên Viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
